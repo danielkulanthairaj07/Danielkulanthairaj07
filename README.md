@@ -1,7 +1,7 @@
 👋 Hi, I'm Daniel A  
 
 💻 Frontend / Full Stack Web Developer  
-🎓 Commerce Graduate (B.E Computer Science and Engineering!)  
+🎓 Engineering Graduate (B.E Computer Science and Engineering!)  
 🌍 Based in India  
 🚀 Passionate about building modern, responsive web applications  
 
