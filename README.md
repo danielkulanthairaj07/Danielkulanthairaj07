@@ -1,85 +1,46 @@
-👋 Hi, I'm Daniel A  
-
-💻 Frontend / Full Stack Web Developer  
-🎓 Engineering Graduate (B.E Computer Science and Engineering!)  
-🌍 Based in India  
-🚀 Passionate about building modern, responsive web applications  
+<h1 align="center">Hi 👋, I'm Daniel Kulanthai Raj</h1>
+<h3 align="center">Frontend / Web Developer | React.js</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Focused on **Frontend & Full Stack Web Development**
-- Strong foundation in **HTML, CSS, JavaScript**
-- Hands-on experience with **React.js & modern UI design**
-- Worked on **real-time projects & internships**
-- Familiar with **REST APIs & full stack workflows**
-- Actively seeking **Frontend / React / Web Developer opportunities**
+- 💻 Frontend / Web Developer with hands-on experience
+- ⚛️ Strong in React.js, JavaScript (ES6+)
+- 🎨 Skilled in HTML5, CSS3, Bootstrap
+- 🚀 Passionate about building responsive web applications
+- ⚡ Immediate Joiner | Open to full-time opportunities
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
-- HTML5
-- CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
-
-### ⚙️ Backend
-- Python (Django – basics)
-- Node.js (Basics)
-- Express.js (Basics)
-
-### 🗄️ Database
-- MySQL
-- MongoDB (Basics)
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Chrome DevTools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Projects
+## 🤝 Connect with Me
 
-- 🎬 **Netflix Clone (React + Vite)**  
-  → Netflix-style UI with responsive layout  
-
-- 🛒 **E-Commerce Application**  
-  → Product listing, cart UI, checkout flow  
-
-- 🌐 **Portfolio Website**  
-  → Personal portfolio showcasing projects & skills  
-
-- 🧑‍💼 **Employee Management System**  
-  → CRUD-based web application  
-
-- 💡 **ThoughtStream Hub**  
-  → React-based idea sharing platform  
-
----
-
-## 📚 What I'm Learning Now
-
-- Advanced React (Hooks, Optimization)
-- MERN Stack Development
-- Clean Code & Scalable Project Structure
-- UI/UX Best Practices
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielkulanthairaj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/danielkulanthairaj07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rajd46697@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://danielkulanthairaj.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="48" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect With Me
-
-- 📧 Email: **danielkulanthairaj07@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-kulanthairaj
-- 🌐 Portfolio: https://danielkulanthairaj.netlify.app
-- 🐙 GitHub: https://github.com/danielkulanthairaj07
-
----
-
-⭐ Thanks for visiting my profile!  
-💡 *Always learning | Always building | Always improving*
+⭐ Thanks for visiting my GitHub profile!
