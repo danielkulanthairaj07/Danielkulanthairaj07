@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Kulanthai Raj</h1>
+<h1 align="center">Hi 👋, I'm Daniel Kulanthai Raj A </h1>
 <h3 align="center">Frontend / Web Developer | React.js</h3>
 
 ---
