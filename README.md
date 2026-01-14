@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Kulanthai Raj A </h1>
-<h3 align="center">Frontend / Web Developer | React.js</h3>
+<h3 align="center"> Frontend / Web Developer | React.js Enthusiast </h3>
 
 ---
 
